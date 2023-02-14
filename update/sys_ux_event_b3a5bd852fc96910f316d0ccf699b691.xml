@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_event">
+    <sys_ux_event action="INSERT_OR_UPDATE">
+        <description/>
+        <event_name>LIST_QUERY</event_name>
+        <interfaces/>
+        <label>List query</label>
+        <props>[]</props>
+        <required_translations>[ ]</required_translations>
+        <schema_version>1.0.0</schema_version>
+        <sys_class_name>sys_ux_event</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-14 16:16:15</sys_created_on>
+        <sys_id>b3a5bd852fc96910f316d0ccf699b691</sys_id>
+        <sys_name>List query</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ux_event_b3a5bd852fc96910f316d0ccf699b691</sys_update_name>
+    </sys_ux_event>
+    <sys_translated_text action="delete_multiple" query="documentkey=b3a5bd852fc96910f316d0ccf699b691"/>
+</record_update>
